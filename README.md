@@ -1,11 +1,14 @@
-# Klayout
-(docs/2026-11-02_17-21-19.png)
+### KLayout
 
-# Tiny Tapeout GDS Viewer
-(docs/2026-11-02_17-16-22.png)
+![UART layout in KLayout](docs/2026-11-02_17-21-19.png)
 
-# Waveform
-(2026-11-02_16-53-36.png)
+### Tiny Tapeout GDS Viewer
+
+![UART layout in Tiny Tapeout GDS Viewer](docs/2026-11-02_17-16-22.png)
+
+### UART Waveform
+
+![UART simulation waveform](docs/2026-11-02_16-53-36.png)
 
 
 ## Physical Design Results

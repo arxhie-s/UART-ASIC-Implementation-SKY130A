@@ -1,11 +1,11 @@
 # Klayout
-![KLAY](<img width="1092" height="1161" alt="2026-11-02_17-21-19" src="https://github.com/user-attachments/assets/aa24a4f9-b1ae-4779-85ac-57909cf2ec25" />)
+(docs/2026-11-02_17-21-19.png)
 
 # Tiny Tapeout GDS Viewer
-![TTGDS](<img width="1073" height="1182" alt="2026-11-02_17-16-22" src="https://github.com/user-attachments/assets/9ca1a970-49dc-45b5-9e89-d89bc74674ae" />)
+(docs/2026-11-02_17-16-22.png)
 
 # Waveform
-![WF](<img width="1975" height="272" alt="2026-11-02_16-53-36" src="https://github.com/user-attachments/assets/0b13c60e-cbb3-4efa-bbdc-7267ee216e0f" />)
+(2026-11-02_16-53-36.png)
 
 
 ## Physical Design Results
